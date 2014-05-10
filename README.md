@@ -1,8 +1,5 @@
-datasciencecoursera
-===================
-
 ## Data Science Course
-### Mark Nelson
+Mark Nelson
 
 This is my list
 * First Item
